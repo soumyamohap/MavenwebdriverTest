@@ -1,0 +1,13 @@
+
+<suite name="Suite One" >
+ <!--  <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>  -->
+ <test name="Test One" >
+  <classes> 
+      <class name="pack1.Test1" />
+      <!-- <class name="pack2.Test2" /> -->
+  </classes> 
+ </test> 
+</suite> 
